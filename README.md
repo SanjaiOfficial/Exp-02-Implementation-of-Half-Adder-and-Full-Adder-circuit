@@ -63,21 +63,26 @@ Logic symbol & Truthtable
 ### Output:
 ### RTL realization:
 ## HALF ADDER:
-![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/6aed19e5-b55a-4a55-804a-d240073594ca)
+![image](https://github.com/SanjaiOfficial/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151763180/81a0762f-8e54-48d1-a490-3a707277c52d)
+
 ## FULL ADDER:
-![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/e2f2db7e-ca41-43c5-a602-b0411b8f9a09)
+![image](https://github.com/SanjaiOfficial/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151763180/e3f39c57-c193-4f9d-9daa-5eac35a0f5d0)
+
 ### TIMING DIAGRAM:
 ## HALF ADDER:
-![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/e608bc4e-fc70-489b-8e93-ac3d7045f467)       
+![image](https://github.com/SanjaiOfficial/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151763180/5d111fac-7a85-4a4f-a97f-5418c7b146b8)
+       
 ## FULL ADDER:
-![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/7eba3d8b-563b-4341-97b0-8f5846b07898)
+![image](https://github.com/SanjaiOfficial/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151763180/486b77dd-3b1a-4521-a98e-8bcf6c3ff37e)
+
 
 
 ### TRUTH TABLE:
 ## HALF ADDER:
-![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/591311cb-f323-4409-8b48-10231f6f01d0)
+![image](https://github.com/SanjaiOfficial/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151763180/11f8a4a4-b564-411d-9acc-c96b1fd08f6c)
+
 ## FULL ADDER:
-![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/bd1d5917-0be7-4fd1-90f2-13781cea7bd6)
+![image](https://github.com/SanjaiOfficial/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151763180/de19d3aa-63fb-468d-98a5-1830c8ce64a3)
 
 
 ### Result:
